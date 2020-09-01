@@ -1,0 +1,7 @@
+{
+	"Nil": 0,
+	"AtLocation": 1,
+	"IsA": 2,
+	"PartOf": 3,
+	"UsedFor": 4
+}
